@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">AndroidCornershop</string>
+    <string name="title_activity_categoria">CategoriaActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="edtxEmail">Email</string>
+    <string name="edtxPassword">Password</string>
+    <string name="txtOlvidoPassword">Forgot Password?</string>
+    <string name="btnSignIn">Sign In</string>
+    <string name="or">or</string>
+    <string name="txtCrearAccount">No tienes cuenta? crear cuenta</string>
+    <string name="edtxName">Full Name</string>
+    <string name="edtxTelefono">Phone</string>
+    <string name="edtxRut">Rut</string>
+    <string name="btnSignUp">Sign up</string>
+    <string name="edtxConfirmarPassword">Confirm Password</string>
+    <string name="txtYaTienescuenta">Tienes cuenta? Sign In</string>
+    <string name="Total">Total: </string>
+    <string name="valor">00</string>
+    <string name="ItemNameCart">Food</string>
+    <string name="txtTotaValor">00,000</string>
+    <string name="txtTotal">Total :</string>
+    <string name="ItemIdCart">Id</string>
+</resources>
